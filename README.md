@@ -19,5 +19,17 @@
   <img align="center" alt="fabiola-node.js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> 
   <img align="center" alt="fabiola-vscode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
+
+ <div>
+ 
+ ### 🔗 Vamos manter contato:
+ 
+ 
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabíola-paz-9283bb23b/)
+ [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devfabiola)
+ [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7xXbnYJqa9sJKWtd1L3Rqg)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.fabiola/)
+</div>
   
   
